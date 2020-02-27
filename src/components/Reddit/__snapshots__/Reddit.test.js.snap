@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Reddit/> matches the snapshot 1`] = `
+<div
+  className="sc-AxiKw hAyeDl"
+>
+  <div
+    className="sc-AxirZ hphjTJ"
+  >
+    <div>
+      <a
+        href="https://www.reddit.com/undefined"
+      />
+      <div
+        className="sc-AxhCb iGBEki"
+      >
+        By: 
+      </div>
+      <div
+        className="sc-AxhUy jJQdxR"
+        data={
+          Object {
+            "author": "TestAuthor111",
+            "downs": 0,
+            "num_comments": 54,
+            "permalink": "/r/ProgrammerHumor/comments/fa7b7f/an_interesting_title/",
+            "score": 231,
+            "title": "An Interesting Title",
+            "ups": 231,
+          }
+        }
+        kind="t3"
+      >
+         Comments
+      </div>
+      <div>
+        <div
+          className="sc-AxjAm ecwSUW"
+        >
+          Up Votes:
+           
+        </div>
+        <div
+          className="sc-AxjAm ecwSUW"
+        >
+          Down Votes:
+           
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-AxirZ hphjTJ"
+  >
+    <div>
+      <a
+        href="https://www.reddit.com/undefined"
+      />
+      <div
+        className="sc-AxhCb iGBEki"
+      >
+        By: 
+      </div>
+      <div
+        className="sc-AxhUy jJQdxR"
+        data={
+          Object {
+            "author": "TestAuthor222",
+            "downs": 0,
+            "num_comments": 22,
+            "permalink": "/r/ProgrammerHumor/comments/uu2u2u/another_interesting_title/",
+            "score": 222,
+            "title": "Another Interesting Title",
+            "ups": 222,
+          }
+        }
+        kind="t3"
+      >
+         Comments
+      </div>
+      <div>
+        <div
+          className="sc-AxjAm ecwSUW"
+        >
+          Up Votes:
+           
+        </div>
+        <div
+          className="sc-AxjAm ecwSUW"
+        >
+          Down Votes:
+           
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
